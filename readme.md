@@ -1,6 +1,24 @@
 # End to End Machine Learning Project
 This project was taken from O'Reilly Hands On with Machine Learning Chapter 2
 
+
+### Problem
+Use California Census data to build a model of housing prices in the state
+
+### Data
+
+Split the state of California into blocks(smallest geographical unit for which Cenus Bureu publishes data.  Population size of each block is between 600-3,000 people.  We will refer to these blocks as districts.
+
+Each district has:
+- Population
+- Median Income
+- Median Housing Price
+
+
+### Outcome
+
+Model will learn from the sample to predict the meadian housing price in any district
+ 
 ### Steps
 
 1. Look at the big picture
