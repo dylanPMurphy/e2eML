@@ -4,7 +4,6 @@ This project was taken from O'Reilly Hands On with Machine Learning Chapter 2
 ### Packages Used
 ```
 python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
-
 ```
 
 ### Problem
