@@ -1,6 +1,11 @@
 # End to End Machine Learning Project
 This project was taken from O'Reilly Hands On with Machine Learning Chapter 2
 
+### Packages Used
+```
+python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+
+```
 
 ### Problem
 Use California Census data to build a model of housing prices in the state
